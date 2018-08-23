@@ -1,6 +1,6 @@
 # Lidando com Modais
 
-Dessa vez vamos aborar a busca de elemento em Modais, pois tem sido pedra no sapato de muito QA.
+Dessa vez vamos abordar a busca de elemento em Modais, pois tem sido pedra no sapato de muito QA.
 
 O problema: Buscar um elemento no QA.
 Resultado do problema: "Unable to find ... (Capybara::ElementNotFound)"
